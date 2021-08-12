@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachary0249
 - 👀 I’m interested in data-science, software engineering, applied mathematics, quantitative finance
-- 🌱 I’m currently learning signal processing 
+- 🌱 I’m currently learning digital signal processing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zachary0249@gmail.com
 
